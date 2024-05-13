@@ -254,6 +254,10 @@ img {
   	padding: 0;
   }
 
+  header h1 {
+  	display: none;
+  }
+
   #container {
   	margin: 0;
   }
